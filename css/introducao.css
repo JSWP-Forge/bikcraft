@@ -8,6 +8,7 @@
   grid-template-columns: 1fr 1fr;
   gap: 85px;
   padding: 25px 20px;
+  margin-bottom: 120px;
 }
 
 .introducao-caixatexto {
